@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanu-Rawat12
 - 👀 I’m interested in Technical Writing.
 - 🌱 I’m currently learning Technical Writing.
-- 💞️ I’m looking to collaborate on technical documents to ehance mt documentation skills and examine myself, and get constructive feedback.
+- 💞️ I’m looking to collaborate on technical documents to ehance my documentation skills and examine myself, and get constructive feedback.
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Reading 
